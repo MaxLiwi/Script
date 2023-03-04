@@ -2,8 +2,10 @@
 #!desc=显示 Surge Pro信息
 
 [Panel]
-Liwi_Surge-Panel = script-name=Liwi_Surge-Panel,update-interval=1
+Surge-Panel = script-name=Surge-Panel,update-interval=1
 
 
 [Script]
-Liwi_Surge-Panel = type=generic,script-path=https://raw.githubusercontent.com/Liwi5210/scripts/main/Surge/JS/Surge_Pro.js,argument=icon=crown.fill&color=#f6c970
+Surge-Panel = type=generic,script-path=https://raw.githubusercontent.com/MaxLiwi/rules/main/Panels/Panels.js,argument=icon=crown.fill&color=#f6c970
+
+

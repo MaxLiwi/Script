@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,api.openai.com
 DOMAIN,cdn.auth0.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com

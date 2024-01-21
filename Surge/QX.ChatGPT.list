@@ -1,0 +1,12 @@
+# NAME: ChatGPT
+# AUTHOR: Liwi
+# UPDATED: 2023-04-06 15:50:29
+HOST-SUFFIX,openaiapi-site.azureedge.net
+HOST-SUFFIX,api.openai.com
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,api.openai.com
+HOST-SUFFIX,cdn.auth0.com
+HOST-SUFFIX,sentry.io
+HOST-SUFFIX,intercom.io
+HOST-SUFFIX,oaistatic.com
+HOST-SUFFIX,oaiusercontent.com

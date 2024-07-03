@@ -94,7 +94,7 @@ $httpClient.get(
             }
             else {
                 body = {
-                    title: "𝑹𝒆𝒂𝒍-𝒕𝒊𝒎𝒆 𝒐𝒊𝒍 𝒑𝒓𝒊𝒄𝒆𝒔",
+                    title: "𝑹𝒆𝒂𝒍-𝒕𝒊𝒎𝒆 𝒐𝒊𝒍 𝒑𝒓𝒊𝒄𝒆𝒔©️",
                     content: `${prices[0].name}  ${prices[0].value}\n${prices[1].name}  ${prices[1].value}\n${prices[2].name}  ${prices[2].value}\n${prices[3].name}  ${prices[3].value}\n${friendly_tips}`,
                     icon: "fuelpump.fill"
                 }

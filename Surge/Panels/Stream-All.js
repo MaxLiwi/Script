@@ -28,7 +28,7 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
 
   ;(async () => {
     let panel_result = {
-      title: '流媒体解锁',
+      title: '𝑺𝒕𝒓𝒆𝒂𝒎𝒊𝒏𝒈 𝑼𝒏𝒍𝒐𝒄𝒌𝒆𝒅',
       content: '',
       icon: 'play.tv.fill',
       'icon-color': '#e0b369',

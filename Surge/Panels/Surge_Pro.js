@@ -20,7 +20,6 @@ if ($trigger == "button") await httpAPI("/v1/profiles/reload");
 
   $done({
       title:"𝑳𝒊𝒘𝒊 𝑪𝒐𝒏𝒇©️",
-      content:`\n`+
           `--------------\n`+
 	  `已持续运行: ${startTime}\n`+
 	  `--------------\n`+

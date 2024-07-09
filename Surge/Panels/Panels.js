@@ -19,14 +19,12 @@ let scripting_status = (await httpAPI("/v1/features/scripting","GET"));
 if ($trigger == "button") await httpAPI("/v1/profiles/reload");
 
   $done({
-      title:"𝗦𝒖𝒓𝒈𝒆 𝗣𝒓𝒐©️",
-      content:`𝑳𝒊𝒘𝒊 𝑪𝒐𝒏𝒇©️\n`+
-	  `--------------\n`+
-	  `--------------\n`+
+      title:"𝑳𝒊𝒘𝒊 𝑪𝒐𝒏𝒇©️",
+      content:`\n`+
+          `--------------\n`+
 	  `已持续运行: ${startTime}\n`+
 	  `--------------\n`+
-	  `--------------\n`+
-	  `MitM:`+icon_status(mitm_status.enabled)+`  Rewrite:`+icon_status(rewrite_status.enabled)+`  Scripting:`+icon_status(scripting_status.enabled),
+	  `𝑀𝑖𝑡𝑀:`+icon_status(mitm_status.enabled)+`  𝑅𝑒𝑤𝑟𝑖𝑡𝑒:`+icon_status(rewrite_status.enabled)+`  𝑆𝑐𝑟𝑖𝑝𝑡𝑖𝑛𝑔:`+icon_status(scripting_status.enabled),
 		icon: params.icon,
 		"icon-color":params.color
     });
